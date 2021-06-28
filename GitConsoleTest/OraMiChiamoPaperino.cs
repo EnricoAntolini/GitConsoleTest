@@ -1,7 +1,7 @@
 ﻿// unset
 namespace GitConsoleTest
 {
-    public class Topolino
+    public class OraMiChiamoPaperino
     {
         
     }
